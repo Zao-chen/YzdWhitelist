@@ -5,7 +5,7 @@ import yzdwhitelist.yzdwhitelist.command.*;
 
 import java.util.Objects;
 
-public final class YzdWihteList extends JavaPlugin {
+public final class YzdWhiteList extends JavaPlugin {
 
     @Override
     public void onEnable() {
